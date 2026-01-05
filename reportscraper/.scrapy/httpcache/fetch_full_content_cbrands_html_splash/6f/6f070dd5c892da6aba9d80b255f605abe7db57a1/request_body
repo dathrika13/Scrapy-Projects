@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/news-events/press-releases/detail/308/constellation-brands-to-report-third-quarter-fiscal-2025",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://d1io3yog0oux5.cloudfront.net/_5106171cdd4e0219f00fc4f299e29f49/cbrands/news/2024-12-05_Constellation_Brands_to_Report_Third_Quarter_308.pdf",
+    "wait": 2
+}

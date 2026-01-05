@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/tastemade-debuts-breakthrough-new-series-street-somm-hosted-by-wolf-of-wine-jermaine-stone",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://c212.net/c/link/?t=0&l=en&o=3973721-1&h=3297086477&u=https%3A%2F%2Ftwitter.com%2Fcbrands&a=Twitter",
+    "wait": 2
+}

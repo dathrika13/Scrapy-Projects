@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/modelo-and-juixxe-team-up-to-celebrate-street-vendors-for-the-launch-of-modelo-spiked-aguas-frescas",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/pacifico%C2%AE-beer-launches-parks-less-traveled-to-reward-independent-spirits-for-visiting-lesser-known-national-parks",
+    "wait": 2
+}

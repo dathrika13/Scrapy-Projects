@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/beer-and-beats-victoria%E2%84%A2-partners-with-leading-mexican-band-grupo-firme-for-2023-united-states-tour",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/beer-and-beats-victoria%E2%84%A2-partners-with-leading-mexican-band-grupo-firme-for-2023-united-states-tour#MainContent",
+    "wait": 2
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "http://www.cbrands.com/blogs/news/constellation-brands-to-present-at-the-2024-morgan-stanley-global-consumer-and-retail-conference-on-december-3-2024",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "http://www.cbrands.com/blogs/news/constellation-brands-to-present-at-the-2024-morgan-stanley-global-consumer-and-retail-conference-on-december-3-2024#MainContent",
+    "wait": 2
+}

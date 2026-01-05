@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "http://www.cbrands.com/pages/privacy-notice",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "http://www.cbrands.com/pages/privacy-notice#otnotice-section-84aaf465-91f6-46f7-bb88-57804272e7c7",
+    "wait": 2
+}

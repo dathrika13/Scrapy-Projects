@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "http://www.cbrands.com/pages/terms",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "http://www.cbrands.com/pages/terms#otnotice-section-e980f5c7-44ea-401a-9ea3-c3967cb19906",
+    "wait": 2
+}

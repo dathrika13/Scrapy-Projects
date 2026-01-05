@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://d1io3yog0oux5.cloudfront.net/cbrands/files/pages/cbrands/db/932/description/Broadridge-Transfer-Agent-Welcome-Letter.pdf",
+    "wait": 2
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/modelo-and-desmond-howard-team-up-to-reward-one-full-time-college-football-fan-with-a-100k-salary-during-the-college-football-playoff",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/modelo-and-desmond-howard-team-up-to-reward-one-full-time-college-football-fan-with-a-100k-salary-during-the-college-football-playoff#MainContent",
+    "wait": 2
+}

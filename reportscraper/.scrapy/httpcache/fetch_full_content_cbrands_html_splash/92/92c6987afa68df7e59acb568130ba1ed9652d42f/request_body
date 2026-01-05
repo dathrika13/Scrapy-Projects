@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/financial-information",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://ir.cbrands.com/sec-filings/all-sec-filings/content/0000016918-24-000054/0000016918-24-000054.pdf",
+    "wait": 2
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "http://www.cbrands.com/",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "http://www.cbrands.com/blogs/news/constellation-brands-announces-revised-date-to-report-third-quarter-fiscal-2025-financial-results-host-conference-call-january-10-2025",
+    "wait": 2
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.mx/pages/politicas-de-privacidad/",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.mx/pages/politicas-de-privacidad/#otnotice-section-f6df79b9-2a69-41cb-a81f-6dc088d1d2ab",
+    "wait": 2
+}

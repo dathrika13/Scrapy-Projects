@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/constellation-brands-announces-ricardo-dalmas-as-new-svp-of-strategy-insights-and-analytics",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/constellation-brands-to-present-at-the-2023-consumer-analyst-group-of-new-york-conference-on-thursday-february-23-2023",
+    "wait": 2
+}

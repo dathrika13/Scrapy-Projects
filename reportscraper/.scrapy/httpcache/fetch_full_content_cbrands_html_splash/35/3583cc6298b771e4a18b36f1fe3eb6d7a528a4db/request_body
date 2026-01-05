@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/pacifico%C2%AE-beer-launches-parks-less-traveled-to-reward-independent-spirits-for-visiting-lesser-known-national-parks",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/modelo%C2%AE-and-mexican-actor-jaime-camil-team-up-to-inspire-fans-to-cinco-autentico-with-virtual-modelo-mercado-and-museum-of-cinco-in-los-angeles",
+    "wait": 2
+}

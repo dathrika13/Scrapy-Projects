@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/corporate-governance",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://d1io3yog0oux5.cloudfront.net/_5106171cdd4e0219f00fc4f299e29f49/cbrands/db/873/7571/file/HRC+Charter+%28FINAL+2024-10-01%29.pdf",
+    "wait": 2
+}

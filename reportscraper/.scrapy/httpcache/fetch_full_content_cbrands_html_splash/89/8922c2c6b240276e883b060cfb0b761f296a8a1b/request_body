@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/constellation-brands-further-strengthens-esg-commitment-with-new-waste-reduction-and-circular-packaging-targets",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/modelo-and-juixxe-team-up-to-celebrate-street-vendors-for-the-launch-of-modelo-spiked-aguas-frescas",
+    "wait": 2
+}

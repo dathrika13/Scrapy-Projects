@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/news-events/ir-calendar/detail/7854/2024-morgan-stanley-global-consumer-and-retail-conference",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://d1io3yog0oux5.cloudfront.net/_4e88e8c1ec120ff45f03e42b36159494/cbrands/files/pages/cbrands/db/857/pre_event_details/2024_Morgan_Stanley_Global_Consumer_and_Retail_Conference_Webcast_Disclaimers.pdf",
+    "wait": 2
+}

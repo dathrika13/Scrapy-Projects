@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://d1io3yog0oux5.cloudfront.net/_df6105a4b687efc4ad9454c5d81e4d11/cbrands/files/pages/cbrands/db/932/description/STZ_6.3.2024_PROXY_STATEMENT.pdf",
+    "wait": 2
+}

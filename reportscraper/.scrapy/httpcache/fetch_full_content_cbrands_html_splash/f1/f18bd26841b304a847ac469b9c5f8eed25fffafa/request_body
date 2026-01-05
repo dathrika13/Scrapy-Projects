@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/ruffino-embarks-on-historic-transformation-with-bolgheri-vineyard-acquisition",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/constellation-brands-forms-multi-year-multi-million-dollar-partnership-with-tastemade-to-create-first-of-its-kind-content-studio",
+    "wait": 2
+}

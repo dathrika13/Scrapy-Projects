@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://ir.cbrands.com/news-events",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://ir.cbrands.com/news-events/ir-calendar/detail/7854/2024-morgan-stanley-global-consumer-and-retail-conference",
+    "wait": 2
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.cbrands.com/blogs/news/constellation-brands-reports-fiscal-year-and-fourth-quarter-2023-financial-results-and-fiscal-year-2024-outlook",
+        "User-Agent": "Scrapy/2.11.1 (+https://scrapy.org)"
+    },
+    "url": "https://www.cbrands.com/blogs/news/constellation-brands-reports-fiscal-year-and-fourth-quarter-2023-financial-results-and-fiscal-year-2024-outlook#MainContent",
+    "wait": 2
+}
